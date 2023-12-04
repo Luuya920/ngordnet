@@ -1,0 +1,20 @@
+0,AAAA,dummy
+1,BBBB,dummy
+2,CCCC,dummy
+3,DDDD,dummy
+4,EEEE parachuting,dummy
+5,FFFF,dummy
+6,GGGG leap,dummy
+7,HHHH,dummy
+8,IIII,dummy
+9,JJJJ,dummy
+10,KKKK,dummy
+11,LLLL,dummy
+12,MMMM,dummy
+13,NNNN,dummy
+14,OOOO,dummy
+15,PPPP leap,dummy
+16,RRRR,dummy
+17,SSSS,dummy
+18,TTTT,dummy
+19,XXXX,dummy
